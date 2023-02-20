@@ -85,7 +85,7 @@ curl -o install.sh https://raw.githubusercontent.com/optriment/optrispace-fronte
 Set executable bit for this script:
 
 ```sh
-chmod +x ./script.sh
+chmod +x ./install.sh
 ```
 
 ## Configure server
